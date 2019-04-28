@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31eab35b-7c6b-44b9-8a2f-94bee82efe81" name="weishop" url="http://47.93.227.191">
+        <fileTransfer host="47.93.227.191" port="22" rootFolder="/data/wwwroot/default/weishop" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
